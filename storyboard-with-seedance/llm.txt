@@ -1,0 +1,189 @@
+Using the person in the image as the main subject, keeping their facial features unchanged, generate an image based on the following: **PROJECT FILE: HIGH-ALTITUDE ASCENT // PREMIUM HARDSHELL CAMPAIGN**
+
+**FORMAT: ARRIRAW 4.5K / KODAK VISION3 50D 5203 EMULATION**
+
+**DIRECTOR'S PRE-PRODUCTION VISUAL BOARD**
+
+---
+
+### Top Left Area | Character Lock Zone
+
+**[SUBJECT]** 35-year-old male mountain guide/extreme climber.
+
+**[WARDROBE]** Top-of-the-line professional jacket (matte rock grey with minimal dark orange taped details), heavy-duty climbing harness.
+
+**[VIEWS]**
+
+- **Front:** The jacket is fully zipped up, hood pulled up, showcasing a three-dimensional cut and natural drape.
+
+- **Side:** Shows ample shoulder and arm movement without bulkiness.
+
+- **Back:** Shows the windproof and breathable back panel structure.
+
+- **3/4 View:** Dynamic standing pose, holding an ice axe.
+
+**[REALISM NOTES]** Realistic human bone structure, slightly asymmetrical. The face has the rough texture of high-altitude red and sun-dried skin, with clearly defined pores and stubble with a frosty look. Rejecting perfect plastic skin, rejecting CG aesthetics. Like a real makeup test photo.
+
+---
+
+### Top Right Area | Expression + Motion Keyframes (EXPRESSION & ACTION)
+
+**[EXPRESSIONS]**
+
+    **Focused:** Slightly furrowed brows, resolute gaze, staring at the rock face above.
+
+    **Bracing:** Squinting against the strong wind, facial muscles tense.
+
+    **Breathing:** Lips slightly parted, exhaling real white mist.
+
+**[ACTIONS]**
+
+    **Hood Adjustment:** Pulling the drawstring of the hood with one hand.
+
+    **Ice Axe Swing:** Arm raised high with force, no pulling sensation under the armpits of the jacket.
+
+    **Brushing Snow:** Brushing snow off the shoulders, demonstrating the fabric's water-repellent properties.
+
+---
+
+### Upper Middle Area | CAMERA PLAN
+
+**[GEAR]** ARRI Alexa Mini LF + Master Prime lens set.
+
+**[LENSES]** 24mm (wide-angle environment), 50mm (medium-range tracking shot), 100mm Macro (fabric close-up).
+
+**[MOVEMENT PLAN]**
+
+- **Shot A (Drone/Crane):** A wide, overhead view, slowly pushing in along a snow-covered ridge.
+
+- **Shot B (Handheld):** Shoulder-mounted camera, following the character's movements, with realistic breathing and slight shaking.
+
+- **Shot C (Slider):** A close-up panning shot close to the clothing, showing water droplets sliding off.
+
+---
+
+### Central Main Area | Continuous Story Shots (STORYBOARD: 8 PANELS)
+
+**[PANEL 01]**
+
+- **Shot:** 01 | 24mm | Wide Shot (EWS) | Slow Push-In
+
+- **Action:** A tiny figure struggles through a massive natural storm on a snow-covered ridge.
+
+- **Detail:** Strong atmospheric perspective; the wind and snow create a realistic fog effect; slight chromatic aberration at the edges of the image.
+
+**[PANEL 02]**
+
+- **Shot:** 02 | 50mm | Mid Shot | Shoulder-mounted tracking shot
+
+- **Action:** A man walks against a blizzard; the strong wind whips against his rain jacket, creating realistic physical wrinkles on the surface, but the overall silhouette remains sturdy.
+
+- **Detail:** Noticeable film grain; the snow-capped mountains in the background are slightly out of focus.
+
+**[PANEL 03]**
+
+- **Shot:** 03 | 100mm Macro | Extreme Close-up (ECU) | Fixed Macro
+
+- **Action:** Icy snowmelt hits the shoulders of the rain jacket.
+
+- **Detail:** The lotus effect is realistically rendered—water droplets condense and quickly roll off the matte micro-ripstop fabric without penetrating.
+
+**[PANEL 04]**
+
+- **Shot:** 04 | 85mm | Close-up of face (CU) | Slow motion
+
+- **Action:** The man stops and looks up. Real ice crystals cling to his eyelashes, and his breath dissipates at his collar.
+
+- **Detail:** Natural skin tone, without excessive blurring; realistic catchlight in his eyes reflects the snow wall ahead.
+
+**[PANEL 05]**
+
+- **Shot:** 05 | 35mm | Low Angle Full | Handheld, low-angle shot
+
+- **Action:** He swings his ice axe into the ice wall, climbing upwards.
+
+- **Detail:** Emphasis on showcasing the flexibility of the jacket during vigorous movement; no feeling of restriction; realistic light and shadow highlight the garment's three-dimensional cut.
+
+**[PANEL 06]**
+
+- **Shot:** 06 | 100mm Macro | Close-up Detail (Insert) | Shallow Depth of Field
+
+- **Action:** A heavily gloved hand pulls a waterproof zipper across the chest.
+
+- **Detail:** The matte waterproof rubberized finish of the zipper and the clearly visible scratches on the brushed metal zipper pull exude a strong sense of industrial design.
+
+**[PANEL 07]**
+
+- **Shot:** 07 | 50mm | Over-the-Shoulder Lens (OTS) | Slow Zoom In
+
+- **Action:** Over the man's shoulder, we see him finally reaching the summit, sunlight piercing through the clouds and shining on him.
+
+- **Detail:** Realistic lens flare, not exaggerated, natural glow.
+
+**[PANEL 08]**
+
+- **Shot:** 08 | 35mm | Mid Shot | Still Camera
+
+- **Action:** A man stands on a mountaintop, the wind howling, his expression serene, his rain jacket providing perfect protection in the harsh environment.
+
+- **Detail:** Like a real brand lookbook image, restrained, with negative space in the composition, exuding a sense of sophistication.
+
+---
+
+### Bottom Left Area | Lighting Consistency
+
+**[KEY LIGHT]** Natural, cool sunlight piercing through the clouds (high contrast, hard light).
+
+**[FILL LIGHT]** Strong ambient light reflected from the snow (diffuse reflection, with a bluish-green tint).
+
+**[RIM LIGHT]** Faint side-backlight refracted from the ice wall, outlining the subject's shoulders and the edge of his rain jacket.
+
+**[ATMOSPHERE]** Rejecting dreamy volumetric lighting, only the physical diffuse reflection of light from real air dust and wind-blown snowflakes. ---
+
+### Bottom Middle Area | Materials & Effects System
+
+**[MATERIALS]**
+
+**Clothing:** Matte Gore-Tex Pro fabric with a microscopic cross-cut ripstop texture and smooth, taped seams.
+
+- **Accessories:** Climbing carabiners with signs of use (paint chips, scratches), worn nylon webbing.
+
+- **Characters:** Realistic textured, chapped skin, realistic sweat and snow mixing.
+
+**[VFX]**
+
+- Realistic fluid dynamics (water droplets rolling).
+
+- Realistic fabric rendering (physical feedback of wind movement).
+
+- Absolutely prohibited: Glowing edges, magical effects, CG plastic look.
+
+---
+
+### Bottom Right Area | Color Script
+
+**[PALETTE]** Alpine Cold Tones.
+
+**[SHADOWS]** A darkened Cyan-Grey tone, preserving film noise in the shadows.
+
+**[MIDTONES]** The rock-gray of the jacket contrasts subtly with the subject's natural, slightly warm skin tone.
+
+**[HIGHLIGHTS]** A striking white (with a very faint warm undertone to prevent the image from being too cold), with natural exposure decay, avoiding overexposure.
+
+**[LOOK]** Reduced overall saturation, creating a high-contrast cinematic feel, similar to the natural light photography style of *The Revenant*.
+
+---
+
+### Bottom Area | Film Metadata
+
+**[GENRE]** Commercial / Extreme Outdoor Documentary
+
+**[MOOD]** Resilient, Professional, Cool, High-End, Authentic
+
+**[PACE]** Calm, Powerful
+
+**[CINEMATOGRAPHY]** Realistic set photography, natural exposure, atmospheric perspective, slight motion blur, breathable lens
+
+**[FILM STOCK]** ARRIRAW to Kodak Vision3 50D (5203) film simulation
+
+**[DIRECTIVE]** Completely removed AI feel, generated entirely according to Hollywood A-list commercial production visual development standards. 
