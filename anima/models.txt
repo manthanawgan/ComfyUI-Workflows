@@ -1,0 +1,5 @@
+ Sam3 - https://huggingface.co/Comfy-Org/sam3.1/blob/main/checkpoints/sam3.1_multiplex_fp16.safetensors
+
+Anima-Turbo-lora - https://civitai.red/models/2560840/anima-turbo-lora?modelVersionId=2877687
+
+Anima - https://civitai.red/models/2458426/anima?modelVersionId=2959226 
