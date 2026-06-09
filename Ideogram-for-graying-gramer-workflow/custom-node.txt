@@ -1,0 +1,6 @@
+Ideogram 4.0 also does very well with inpainting. It makes it easy to generate at lower megapixels and then mask 
+and inpaint areas like faces to clean up and correct detail.
+I use the Comfyui-Inpaint-CropAndStitch custom node , personally, but most of the time Ideogram 4.0 doesn't need it.
+
+https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch.git
+
